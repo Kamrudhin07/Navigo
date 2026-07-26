@@ -2,6 +2,13 @@
 <img width="585" height="1040" alt="image" src="https://github.com/user-attachments/assets/a496dd41-ba1e-4e2c-90e9-58bc48a0d497" />
 
 
+https://github.com/user-attachments/assets/0beb2880-2c2e-43cd-ae65-b0028f0e39a0
+
+
+
+
+
+
 ## Overview
 
 The Autonomous Warehouse Rover is an embedded robotics platform designed to automate material transportation in warehouse environments. It combines an Arduino Mega for low-level motor control and encoder processing with a Raspberry Pi for high-level control, communication, and future autonomous navigation. The rover uses a four-wheel differential drive mechanism capable of forward, reverse, tank turning, pivot turning, and curved movements.
