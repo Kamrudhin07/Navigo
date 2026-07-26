@@ -1,4 +1,6 @@
 # Autonomous Warehouse Rover
+<img width="585" height="1040" alt="image" src="https://github.com/user-attachments/assets/a496dd41-ba1e-4e2c-90e9-58bc48a0d497" />
+
 
 ## Overview
 
